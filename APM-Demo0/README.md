@@ -1,6 +1,6 @@
-# APM-Demo4
+# APM-Demo5
 
-Demo of create, update, and delete operations using NgRx.
+Demo of container/presentational pattern and OnPush change detection strategy.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
